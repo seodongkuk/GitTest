@@ -11,6 +11,10 @@ pageEncoding="UTF-8"%>
 <body>
 	<h1>HELLO GIT</h1>
 	<P>폐기 단축키(ctrl+shirft+R)=>(unstaging)에서 변경 내용을 취소</P>
+	<p>커밋후 처리방법</p>
+	<UL>
+	<LI>1.브랜치 초기화: 특정위치로 되돌림(Hard:폐기/Mixed:unstaging/Soft:staging)</LI>
+	</UL>
 </body>
 <script>
 </script>
