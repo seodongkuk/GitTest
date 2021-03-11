@@ -14,6 +14,7 @@ pageEncoding="UTF-8"%>
 	<p>커밋후 처리방법</p>
 	<UL>
 	<LI>1.브랜치 초기화: 특정위치로 되돌림(Hard:폐기/Mixed:unstaging/Soft:staging)</LI>
+	<LI>2.reverse commit</LI>
 	</UL>
 </body>
 <script>
