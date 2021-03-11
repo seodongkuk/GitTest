@@ -15,7 +15,6 @@ pageEncoding="UTF-8"%>
 	<UL>
 	<LI>1.브랜치 초기화: 특정위치로 되돌림(Hard:폐기/Mixed:unstaging/Soft:staging)</LI>
 	<LI>2.REVERSE COMMIT</LI>
-	
 	</UL>
 </body>
 <script>
