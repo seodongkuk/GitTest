@@ -10,6 +10,7 @@ pageEncoding="UTF-8"%>
 </head>
 <body>
 	<h1>HELLO GIT</h1>
+	<P>폐기 단축키(ctrl+shirft+R)=>(unstaging)에서 변경 내용을 취소</P>
 </body>
 <script>
 </script>
